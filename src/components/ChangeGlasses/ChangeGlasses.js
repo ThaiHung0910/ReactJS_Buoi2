@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import style from "../../assets/css/ChangeGlasses.module.css";
+import style from "./css/ChangeGlasses.module.css";
 import data from "../../assets/json/dataGlasses.json";
 
 export default class ChangeGlasses extends Component {

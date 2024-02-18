@@ -4,8 +4,8 @@ body {
 }
 
 .background {
-  background: url(../../../public/glassesImage/background.jpg) no-repeat center /
-    cover;
+  background: url(../../../../public/glassesImage/background.jpg) no-repeat
+    center / cover;
   position: relative;
   z-index: 0;
   &::before {

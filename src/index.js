@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Body from './components/Home/Body';
+import Body from './components/Body/Body';
 
 
 

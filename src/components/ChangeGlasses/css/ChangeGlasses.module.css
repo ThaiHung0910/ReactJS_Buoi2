@@ -5,7 +5,8 @@
 }
 .model .model_left,
 .model .model_right {
-  background: url(../../../public/glassesImage/model.jpg) no-repeat center/contain;
+  background: url(../../../../public/glassesImage/model.jpg) no-repeat
+    center/contain;
   position: relative;
   width: 480px;
   height: 585px;
@@ -60,4 +61,4 @@
 }
 .glasses .chosen {
   background-color: rgba(239, 77, 18, 0.5450980392);
-}/*# sourceMappingURL=ChangeGlasses.module.css.map */
+} /*# sourceMappingURL=ChangeGlasses.module.css.map */

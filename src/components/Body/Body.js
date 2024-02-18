@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import Header from './Header'
-import ChangeGlasses from './ChangeGlasses'
-import style from '../../assets/css/Body.module.css'
+import Header from '../Header/Header.js'
+import ChangeGlasses from '../ChangeGlasses/ChangeGlasses.js'
+import style from './css/Body.module.css'
 
 export default class Body extends Component {
   render() {
